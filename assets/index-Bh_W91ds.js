@@ -28,7 +28,7 @@ Error generating stack: `+e.message+`
 `,Zn=Kn.h1`
   font-size: 1.8rem;
   font-weight: 700;
-  color: #1a1a2e;
+  color: #1a1a2ee0;
   margin-bottom: 24px;
   text-align: center;
   letter-spacing: -0.03em;
