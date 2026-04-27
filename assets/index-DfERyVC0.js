@@ -40,6 +40,7 @@ Error generating stack: `+e.message+`
   flex: 1;
   padding: 12px 16px;
   font-size: 14px;
+  color: #000;
   border: 2px solid #e2e8f0;
   border-radius: 10px;
   outline: none;
